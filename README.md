@@ -13,8 +13,8 @@
 🐍 Always experimenting with **Python**  
 🚀 Freelance web developer, shipping something new every day  
 📸 Also working as a **model** on the side  
-📫 Reach me at [alexridder.be](https://alexridder.be)
-🤖 I also have a Discord : alexridder
+📫 Reach me at [alexridder.be](https://alexridder.be)  
+💬 You can also reach me on Discord: **alexridder**
 
 ## Tech Stack
 
