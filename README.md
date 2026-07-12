@@ -10,7 +10,7 @@
 - 🌐 Making **websites** for clients and side projects
 - 🐍 Always experimenting with **Python**
 - 🚀 Freelance web developer, shipping something new every day
-- 📫 Reach me at [alexridder.be](https://alexridder.be)
+- 📫 Reach me at contact@alexridder.be
 
 ## Tech Stack
 
